@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @joshpep
+- 👀 I’m interested in software development 
+- 🌱 I’m currently learning html css javascropt 
+- you can reach me at joshpeprah@gmail 
